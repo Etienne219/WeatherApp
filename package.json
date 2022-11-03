@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etienne219/WeatherApp.git"
+  },
+  "author": "Etienne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etienne219/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/Etienne219/WeatherApp#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}

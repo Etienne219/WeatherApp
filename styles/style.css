@@ -1,0 +1,12 @@
+body {
+  background-color: blanchedalmond;
+  color: brown;
+  flex:;
+}
+body h1 {
+  color: blue;
+}
+body main div {
+  flex:;
+  border: 1px solid red;
+}/*# sourceMappingURL=style.css.map */
